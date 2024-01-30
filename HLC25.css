@@ -1,0 +1,22 @@
+body{
+    margin: 10px;
+    padding: 0;
+    background-color: #d2d2d2;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+}
+
+.mayor{
+    color: green;
+    font-weight: bold;
+}
+
+.menor{
+    color: red;
+    font-weight: bold;
+}
